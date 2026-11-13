@@ -155,6 +155,12 @@ Open the Arduino `.ino` file using Arduino IDE.
 
 Connect the LDR, PIR sensor, and relay module according to the pin connection table.
 
+![ESP32 pin layout](Images/ESP32Pinlayout.jpg)
+
+---
+
+![Simulation picture](Images/ESP32SimulationPicture.png)
+
 ### Step 5: Upload the Code
 
 Upload the Arduino sketch to the ESP32.
