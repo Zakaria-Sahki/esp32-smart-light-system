@@ -1,0 +1,4 @@
+# macOS / Windows metadata
+.DS_Store
+Thumbs.db
+*.tmp
