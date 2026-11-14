@@ -138,7 +138,7 @@ Follow these steps to run the project:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/Zakaria-Sahki/esp32-smart-light-system.git
 ```
 
 ### Step 2: Open the Project
